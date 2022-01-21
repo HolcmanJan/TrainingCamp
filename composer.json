@@ -1,0 +1,15 @@
+{
+    "name": "honza/training-camp-oop",
+    "autoload": {
+        "psr-4": {
+            "Hotel\\": "tridy/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Holcman",
+            "email": "honzaholcman@gmail.com"
+        }
+    ],
+    "require": {}
+}
